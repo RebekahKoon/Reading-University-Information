@@ -1,0 +1,5 @@
+Student Rebekah 25 4
+Instructor John 66 3.5
+Student Jacob 19 3.85
+Instructor Andy 45 4.5
+Instructor Dolly 55 5
